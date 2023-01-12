@@ -31,4 +31,4 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bluebear9508)](https://solved.ac/bluebear9508)
 
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=bluebear9508&theme=dark)
