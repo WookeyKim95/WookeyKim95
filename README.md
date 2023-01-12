@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WookeyKim95)](https://github.com/WookeyKim95/WookeyKim95)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WookeyKim95)
 
 ##
 
@@ -22,7 +22,7 @@
 
 ### And My Most Using Language..
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WookeyKim95&langs_count=10&layout=compact&theme=default)](https://github.com/WookeyKim95/WookeyKim95)
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=WookeyKim95&langs_count=10&layout=compact&theme=default&exclude_repo=WookeyKim95,WookeyKim95.github.io)
 
 <Br/>
 
