@@ -11,7 +11,7 @@
 
 ## [CV](https://github.com/WookeyKim95/WookeyKim95.github.io/raw/main/CV_KimSungWook.pdf?raw=true)
 
-## Portfolio(PDF will Coming Soon..) how about watching my game video instead [here?](https://youtu.be/EJj_PRnWfNE)
+## [Portfolio](https://github.com/WookeyKim95/WookeyKim95.github.io/raw/main/Portfolio_KimSungWook.pdf?raw=true)
 
 ## [My Blog](https://wookeykim95.github.io)
 
