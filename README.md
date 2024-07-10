@@ -2,9 +2,13 @@
 
 ### Hi there 👋
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WookeyKim95)
+## About Me
 
-##
+![My MindMap](https://github.com/WookeyKim95/WookeyKim95.github.io/blob/main/assets/img/MindMap.png?raw=true)
+
+<br/>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=WookeyKim95)
 
 
 ### You can download my CV & PortFolio or visit My Blog!<Br/>
