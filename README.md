@@ -22,7 +22,7 @@
 <br/>
 
 ### I'm Usually Using..
-<img src="https://img.shields.io/badge/-C%2B%2B-lightgrey"> <img src="https://img.shields.io/badge/-Python-informational">
+<img src="https://img.shields.io/badge/-C%2B%2B-lightgrey"> <img src="https://img.shields.io/badge/-Python-informational"> <img src="https://img.shields.io/badge/-Javascript-yellow">
 
 ### And My Most Using Language..
 
